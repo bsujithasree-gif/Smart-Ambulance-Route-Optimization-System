@@ -1,2 +1,29 @@
-# Smart-Ambulance-Route-Optimization-System
-Smart Ambulance Route Optimization System using Python and Chennai location-based Kaggle dataset to identify the fastest ambulance route. Implements Haversine formula for distance calculation, travel time estimation, and map visualization to improve emergency response and reduce delays.
+# Smart Ambulance Route Optimization System
+
+## Overview
+This project focuses on optimizing ambulance routes to reduce emergency response time using Chennai location-based dataset.
+
+## Dataset
+Kaggle dataset filtered for Chennai south-side hospital and patient locations.
+
+## Features
+- Data preprocessing
+- Feature extraction
+- Haversine distance calculation
+- Route optimization
+- Travel time prediction
+- Map visualization
+
+## Tools Used
+Python
+Pandas
+NumPy
+Folium
+Matplotlib
+
+## Output
+Optimized ambulance route with minimum travel time.
+
+## Author
+Sujitha Sree
+B.Sc Data Science
