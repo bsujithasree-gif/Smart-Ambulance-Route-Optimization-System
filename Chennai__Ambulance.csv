@@ -1,0 +1,501 @@
+Area,Area_Lat,Area_Lon,Hospital,Hospital_Lat,Hospital_Lon
+Adyar,13.0012,80.2565,Bloom Health Care,12.998,80.255
+Adyar,13.0012,80.2565,Fortis Malar,13.0067,80.2589
+Adyar,13.0012,80.2565,Asian Hospital,12.997,80.263
+Adyar,13.0012,80.2565,Adyar Cancer Institute,13.004,80.249
+Adyar,13.0012,80.2565,Cancer Institute (WIA),13.004,80.249
+Adyar,13.0012,80.2565,VHS Hospital,12.989,80.2455
+Adyar,13.0012,80.2565,Apollo Spectra,13.026,80.261
+Adyar,13.0012,80.2565,Apollo Proton Centre,12.9765,80.2514
+Adyar,13.0012,80.2565,Trinity Acute Care,13.03,80.265
+Adyar,13.0012,80.2565,Motherhood Hospital,13.033,80.255
+Adyar,13.0012,80.2565,Apollo Sugar Clinic,13.033,80.255
+Adyar,13.0012,80.2565,Kauvery Alwarpet,13.035,80.256
+Adyar,13.0012,80.2565,Venkatramana Hospital,13.035,80.26
+Adyar,13.0012,80.2565,Lifeline Hospital,12.968,80.242
+Adyar,13.0012,80.2565,Apollo Speciality (Perungudi),12.9656,80.2469
+Adyar,13.0012,80.2565,Isabel Hospital,13.039,80.261
+Adyar,13.0012,80.2565,Dr. Agarwal's Eye Hospital,13.039,80.261
+Adyar,13.0012,80.2565,CSI Kalyani Hospital,13.041,80.268
+Adyar,13.0012,80.2565,Prashanth Hospital (Velachery),12.98,80.22
+Adyar,13.0012,80.2565,Gem Hospital,12.961,80.243
+Guindy,13.0067,80.2206,Abhijay Hospital,13.021,80.21
+Guindy,13.0067,80.2206,Raadha Rajendran Hospital,13.002,80.203
+Guindy,13.0067,80.2206,St. Thomas Hospital,13.0044,80.2015
+Guindy,13.0067,80.2206,Sri Balaji Hospital,13.0104,80.198
+Guindy,13.0067,80.2206,Subhikshaa Hospital,12.988,80.205
+Guindy,13.0067,80.2206,Prashanth Hospital (Velachery),12.98,80.22
+Guindy,13.0067,80.2206,Noble Hospital,13.034,80.213
+Guindy,13.0067,80.2206,Adyar Cancer Institute,13.004,80.249
+Guindy,13.0067,80.2206,Cancer Institute (WIA),13.004,80.249
+Guindy,13.0067,80.2206,VHS Hospital,12.989,80.2455
+Guindy,13.0067,80.2206,Prime Indian Hospital,12.985,80.195
+Guindy,13.0067,80.2206,Bloom Health Care,12.998,80.255
+Guindy,13.0067,80.2206,Aarthi Scans & Hospital,13.042,80.225
+Guindy,13.0067,80.2206,Be Well Hospital,13.043,80.232
+Guindy,13.0067,80.2206,Fortis Malar,13.0067,80.2589
+Guindy,13.0067,80.2206,Meenakshi Mission,13.04,80.2
+Guindy,13.0067,80.2206,ESI Hospital,13.04,80.198
+Guindy,13.0067,80.2206,MIOT International,13.0232,80.1837
+Guindy,13.0067,80.2206,SIMS Hospital,13.048,80.21
+Guindy,13.0067,80.2206,Narayana Health,13.048,80.21
+Velachery,12.9791,80.2214,Prashanth Hospital (Velachery),12.98,80.22
+Velachery,12.9791,80.2214,Subhikshaa Hospital,12.988,80.205
+Velachery,12.9791,80.2214,Lifeline Hospital,12.968,80.242
+Velachery,12.9791,80.2214,VHS Hospital,12.989,80.2455
+Velachery,12.9791,80.2214,Prime Indian Hospital,12.985,80.195
+Velachery,12.9791,80.2214,Gem Hospital,12.961,80.243
+Velachery,12.9791,80.2214,Apollo Speciality (Perungudi),12.9656,80.2469
+Velachery,12.9791,80.2214,Raadha Rajendran Hospital,13.002,80.203
+Velachery,12.9791,80.2214,Apollo Proton Centre,12.9765,80.2514
+Velachery,12.9791,80.2214,St. Thomas Hospital,13.0044,80.2015
+Velachery,12.9791,80.2214,Adyar Cancer Institute,13.004,80.249
+Velachery,12.9791,80.2214,Cancer Institute (WIA),13.004,80.249
+Velachery,12.9791,80.2214,Bloom Health Care,12.998,80.255
+Velachery,12.9791,80.2214,Saraswathy Hospital,12.965,80.185
+Velachery,12.9791,80.2214,Sri Balaji Hospital,13.0104,80.198
+Velachery,12.9791,80.2214,Cura Hospital,12.941,80.236
+Velachery,12.9791,80.2214,Abhijay Hospital,13.021,80.21
+Velachery,12.9791,80.2214,Dr. Kamakshi Memorial,12.9345,80.2137
+Velachery,12.9791,80.2214,Dr. Kamakshi (Pallikaranai),12.9345,80.2137
+Velachery,12.9791,80.2214,Asian Hospital,12.997,80.263
+Taramani,12.9863,80.2432,VHS Hospital,12.989,80.2455
+Taramani,12.9863,80.2432,Apollo Proton Centre,12.9765,80.2514
+Taramani,12.9863,80.2432,Bloom Health Care,12.998,80.255
+Taramani,12.9863,80.2432,Lifeline Hospital,12.968,80.242
+Taramani,12.9863,80.2432,Adyar Cancer Institute,13.004,80.249
+Taramani,12.9863,80.2432,Cancer Institute (WIA),13.004,80.249
+Taramani,12.9863,80.2432,Apollo Speciality (Perungudi),12.9656,80.2469
+Taramani,12.9863,80.2432,Asian Hospital,12.997,80.263
+Taramani,12.9863,80.2432,Prashanth Hospital (Velachery),12.98,80.22
+Taramani,12.9863,80.2432,Gem Hospital,12.961,80.243
+Taramani,12.9863,80.2432,Fortis Malar,13.0067,80.2589
+Taramani,12.9863,80.2432,Subhikshaa Hospital,12.988,80.205
+Taramani,12.9863,80.2432,Raadha Rajendran Hospital,13.002,80.203
+Taramani,12.9863,80.2432,Apollo Spectra,13.026,80.261
+Taramani,12.9863,80.2432,St. Thomas Hospital,13.0044,80.2015
+Taramani,12.9863,80.2432,Cura Hospital,12.941,80.236
+Taramani,12.9863,80.2432,Abhijay Hospital,13.021,80.21
+Taramani,12.9863,80.2432,Motherhood Hospital,13.033,80.255
+Taramani,12.9863,80.2432,Apollo Sugar Clinic,13.033,80.255
+Taramani,12.9863,80.2432,Prime Indian Hospital,12.985,80.195
+Mylapore,13.0333,80.2677,Trinity Acute Care,13.03,80.265
+Mylapore,13.0333,80.2677,CSI Kalyani Hospital,13.041,80.268
+Mylapore,13.0333,80.2677,Venkatramana Hospital,13.035,80.26
+Mylapore,13.0333,80.2677,Isabel Hospital,13.039,80.261
+Mylapore,13.0333,80.2677,Dr. Agarwal's Eye Hospital,13.039,80.261
+Mylapore,13.0333,80.2677,Apollo Spectra,13.026,80.261
+Mylapore,13.0333,80.2677,Kauvery Alwarpet,13.035,80.256
+Mylapore,13.0333,80.2677,Motherhood Hospital,13.033,80.255
+Mylapore,13.0333,80.2677,Apollo Sugar Clinic,13.033,80.255
+Mylapore,13.0333,80.2677,MGM Healthcare,13.045,80.255
+Mylapore,13.0333,80.2677,Apollo Teynampet,13.045,80.25
+Mylapore,13.0333,80.2677,Royapettah General,13.055,80.262
+Mylapore,13.0333,80.2677,Rainbow Childrens Hospital,13.05,80.25
+Mylapore,13.0333,80.2677,Cloudnine Hospital (T Nagar),13.045,80.245
+Mylapore,13.0333,80.2677,Fortis Malar,13.0067,80.2589
+Mylapore,13.0333,80.2677,Kasturba Gandhi Hospital,13.062,80.275
+Mylapore,13.0333,80.2677,Apollo Greams Road,13.0607,80.252
+Mylapore,13.0333,80.2677,Child Trust Hospital,13.055,80.243
+Mylapore,13.0333,80.2677,Kanchi Kamakoti CHILDS Trust,13.055,80.243
+Mylapore,13.0333,80.2677,Apollo Children's Hospital,13.0631,80.2514
+Thiruvanmiyur,12.984,80.261,Apollo Proton Centre,12.9765,80.2514
+Thiruvanmiyur,12.984,80.261,Asian Hospital,12.997,80.263
+Thiruvanmiyur,12.984,80.261,Bloom Health Care,12.998,80.255
+Thiruvanmiyur,12.984,80.261,VHS Hospital,12.989,80.2455
+Thiruvanmiyur,12.984,80.261,Fortis Malar,13.0067,80.2589
+Thiruvanmiyur,12.984,80.261,Apollo Speciality (Perungudi),12.9656,80.2469
+Thiruvanmiyur,12.984,80.261,Adyar Cancer Institute,13.004,80.249
+Thiruvanmiyur,12.984,80.261,Cancer Institute (WIA),13.004,80.249
+Thiruvanmiyur,12.984,80.261,Lifeline Hospital,12.968,80.242
+Thiruvanmiyur,12.984,80.261,Gem Hospital,12.961,80.243
+Thiruvanmiyur,12.984,80.261,Prashanth Hospital (Velachery),12.98,80.22
+Thiruvanmiyur,12.984,80.261,Apollo Spectra,13.026,80.261
+Thiruvanmiyur,12.984,80.261,Trinity Acute Care,13.03,80.265
+Thiruvanmiyur,12.984,80.261,Motherhood Hospital,13.033,80.255
+Thiruvanmiyur,12.984,80.261,Apollo Sugar Clinic,13.033,80.255
+Thiruvanmiyur,12.984,80.261,Cura Hospital,12.941,80.236
+Thiruvanmiyur,12.984,80.261,Venkatramana Hospital,13.035,80.26
+Thiruvanmiyur,12.984,80.261,Kauvery Alwarpet,13.035,80.256
+Thiruvanmiyur,12.984,80.261,Isabel Hospital,13.039,80.261
+Thiruvanmiyur,12.984,80.261,Dr. Agarwal's Eye Hospital,13.039,80.261
+Besant Nagar,12.9965,80.2623,Asian Hospital,12.997,80.263
+Besant Nagar,12.9965,80.2623,Bloom Health Care,12.998,80.255
+Besant Nagar,12.9965,80.2623,Fortis Malar,13.0067,80.2589
+Besant Nagar,12.9965,80.2623,Adyar Cancer Institute,13.004,80.249
+Besant Nagar,12.9965,80.2623,Cancer Institute (WIA),13.004,80.249
+Besant Nagar,12.9965,80.2623,VHS Hospital,12.989,80.2455
+Besant Nagar,12.9965,80.2623,Apollo Proton Centre,12.9765,80.2514
+Besant Nagar,12.9965,80.2623,Apollo Spectra,13.026,80.261
+Besant Nagar,12.9965,80.2623,Trinity Acute Care,13.03,80.265
+Besant Nagar,12.9965,80.2623,Apollo Speciality (Perungudi),12.9656,80.2469
+Besant Nagar,12.9965,80.2623,Lifeline Hospital,12.968,80.242
+Besant Nagar,12.9965,80.2623,Motherhood Hospital,13.033,80.255
+Besant Nagar,12.9965,80.2623,Apollo Sugar Clinic,13.033,80.255
+Besant Nagar,12.9965,80.2623,Venkatramana Hospital,13.035,80.26
+Besant Nagar,12.9965,80.2623,Kauvery Alwarpet,13.035,80.256
+Besant Nagar,12.9965,80.2623,Gem Hospital,12.961,80.243
+Besant Nagar,12.9965,80.2623,Isabel Hospital,13.039,80.261
+Besant Nagar,12.9965,80.2623,Dr. Agarwal's Eye Hospital,13.039,80.261
+Besant Nagar,12.9965,80.2623,CSI Kalyani Hospital,13.041,80.268
+Besant Nagar,12.9965,80.2623,Prashanth Hospital (Velachery),12.98,80.22
+Pallikaranai,12.935,80.215,Dr. Kamakshi Memorial,12.9345,80.2137
+Pallikaranai,12.935,80.215,Dr. Kamakshi (Pallikaranai),12.9345,80.2137
+Pallikaranai,12.935,80.215,Kauvery Radial Road,12.932,80.211
+Pallikaranai,12.935,80.215,Cura Hospital,12.941,80.236
+Pallikaranai,12.935,80.215,Apollo OMR (Karapakkam),12.9186,80.2297
+Pallikaranai,12.935,80.215,Apollo Cradle (Karapakkam),12.9186,80.2297
+Pallikaranai,12.935,80.215,Gem Hospital,12.961,80.243
+Pallikaranai,12.935,80.215,Saraswathy Hospital,12.965,80.185
+Pallikaranai,12.935,80.215,Lifeline Hospital,12.968,80.242
+Pallikaranai,12.935,80.215,Apollo Speciality (Perungudi),12.9656,80.2469
+Pallikaranai,12.935,80.215,Prashanth Hospital (Velachery),12.98,80.22
+Pallikaranai,12.935,80.215,Prime Indian Hospital,12.985,80.195
+Pallikaranai,12.935,80.215,Subhikshaa Hospital,12.988,80.205
+Pallikaranai,12.935,80.215,Apollo Proton Centre,12.9765,80.2514
+Pallikaranai,12.935,80.215,Global Gleneagles Health City,12.8761,80.2209
+Pallikaranai,12.935,80.215,VHS Hospital,12.989,80.2455
+Pallikaranai,12.935,80.215,Raadha Rajendran Hospital,13.002,80.203
+Pallikaranai,12.935,80.215,Lakshmi Nursing Home,12.952,80.147
+Pallikaranai,12.935,80.215,St. Thomas Hospital,13.0044,80.2015
+Pallikaranai,12.935,80.215,Parvathy Hospital,12.951,80.145
+Medavakkam,12.9171,80.1923,Kauvery Radial Road,12.932,80.211
+Medavakkam,12.9171,80.1923,Dr. Kamakshi Memorial,12.9345,80.2137
+Medavakkam,12.9171,80.1923,Dr. Kamakshi (Pallikaranai),12.9345,80.2137
+Medavakkam,12.9171,80.1923,Apollo OMR (Karapakkam),12.9186,80.2297
+Medavakkam,12.9171,80.1923,Apollo Cradle (Karapakkam),12.9186,80.2297
+Medavakkam,12.9171,80.1923,Saraswathy Hospital,12.965,80.185
+Medavakkam,12.9171,80.1923,Cura Hospital,12.941,80.236
+Medavakkam,12.9171,80.1923,Global Gleneagles Health City,12.8761,80.2209
+Medavakkam,12.9171,80.1923,Lakshmi Nursing Home,12.952,80.147
+Medavakkam,12.9171,80.1923,Parvathy Hospital,12.951,80.145
+Medavakkam,12.9171,80.1923,Kavitha Hospital,12.95,80.144
+Medavakkam,12.9171,80.1923,Rela Institute,12.952,80.14
+Medavakkam,12.9171,80.1923,Hindu Mission Hospital,12.924,80.128
+Medavakkam,12.9171,80.1923,Deepam Hospital,12.967,80.148
+Medavakkam,12.9171,80.1923,Gem Hospital,12.961,80.243
+Medavakkam,12.9171,80.1923,COSH Hospital,12.925,80.125
+Medavakkam,12.9171,80.1923,Prime Indian Hospital,12.985,80.195
+Medavakkam,12.9171,80.1923,Prashanth Hospital (Velachery),12.98,80.22
+Medavakkam,12.9171,80.1923,Lifeline Hospital,12.968,80.242
+Medavakkam,12.9171,80.1923,Subhikshaa Hospital,12.988,80.205
+Sholinganallur,12.89,80.227,Global Gleneagles Health City,12.8761,80.2209
+Sholinganallur,12.89,80.227,Apollo OMR (Karapakkam),12.9186,80.2297
+Sholinganallur,12.89,80.227,Apollo Cradle (Karapakkam),12.9186,80.2297
+Sholinganallur,12.89,80.227,Kauvery Radial Road,12.932,80.211
+Sholinganallur,12.89,80.227,Dr. Kamakshi Memorial,12.9345,80.2137
+Sholinganallur,12.89,80.227,Dr. Kamakshi (Pallikaranai),12.9345,80.2137
+Sholinganallur,12.89,80.227,Cura Hospital,12.941,80.236
+Sholinganallur,12.89,80.227,Gem Hospital,12.961,80.243
+Sholinganallur,12.89,80.227,Apollo Speciality (Perungudi),12.9656,80.2469
+Sholinganallur,12.89,80.227,Lifeline Hospital,12.968,80.242
+Sholinganallur,12.89,80.227,Saraswathy Hospital,12.965,80.185
+Sholinganallur,12.89,80.227,Apollo Proton Centre,12.9765,80.2514
+Sholinganallur,12.89,80.227,Prashanth Hospital (Velachery),12.98,80.22
+Sholinganallur,12.89,80.227,Chettinad Health City,12.79,80.22
+Sholinganallur,12.89,80.227,Prime Indian Hospital,12.985,80.195
+Sholinganallur,12.89,80.227,Subhikshaa Hospital,12.988,80.205
+Sholinganallur,12.89,80.227,VHS Hospital,12.989,80.2455
+Sholinganallur,12.89,80.227,Lakshmi Nursing Home,12.952,80.147
+Sholinganallur,12.89,80.227,Parvathy Hospital,12.951,80.145
+Sholinganallur,12.89,80.227,Kavitha Hospital,12.95,80.144
+Perungudi,12.965,80.245,Apollo Speciality (Perungudi),12.9656,80.2469
+Perungudi,12.965,80.245,Lifeline Hospital,12.968,80.242
+Perungudi,12.965,80.245,Gem Hospital,12.961,80.243
+Perungudi,12.965,80.245,Apollo Proton Centre,12.9765,80.2514
+Perungudi,12.965,80.245,VHS Hospital,12.989,80.2455
+Perungudi,12.965,80.245,Cura Hospital,12.941,80.236
+Perungudi,12.965,80.245,Prashanth Hospital (Velachery),12.98,80.22
+Perungudi,12.965,80.245,Bloom Health Care,12.998,80.255
+Perungudi,12.965,80.245,Asian Hospital,12.997,80.263
+Perungudi,12.965,80.245,Adyar Cancer Institute,13.004,80.249
+Perungudi,12.965,80.245,Cancer Institute (WIA),13.004,80.249
+Perungudi,12.965,80.245,Dr. Kamakshi Memorial,12.9345,80.2137
+Perungudi,12.965,80.245,Dr. Kamakshi (Pallikaranai),12.9345,80.2137
+Perungudi,12.965,80.245,Fortis Malar,13.0067,80.2589
+Perungudi,12.965,80.245,Subhikshaa Hospital,12.988,80.205
+Perungudi,12.965,80.245,Kauvery Radial Road,12.932,80.211
+Perungudi,12.965,80.245,Apollo OMR (Karapakkam),12.9186,80.2297
+Perungudi,12.965,80.245,Apollo Cradle (Karapakkam),12.9186,80.2297
+Perungudi,12.965,80.245,Prime Indian Hospital,12.985,80.195
+Perungudi,12.965,80.245,Raadha Rajendran Hospital,13.002,80.203
+Thoraipakkam,12.943,80.2355,Cura Hospital,12.941,80.236
+Thoraipakkam,12.943,80.2355,Gem Hospital,12.961,80.243
+Thoraipakkam,12.943,80.2355,Dr. Kamakshi Memorial,12.9345,80.2137
+Thoraipakkam,12.943,80.2355,Dr. Kamakshi (Pallikaranai),12.9345,80.2137
+Thoraipakkam,12.943,80.2355,Apollo OMR (Karapakkam),12.9186,80.2297
+Thoraipakkam,12.943,80.2355,Apollo Cradle (Karapakkam),12.9186,80.2297
+Thoraipakkam,12.943,80.2355,Apollo Speciality (Perungudi),12.9656,80.2469
+Thoraipakkam,12.943,80.2355,Lifeline Hospital,12.968,80.242
+Thoraipakkam,12.943,80.2355,Kauvery Radial Road,12.932,80.211
+Thoraipakkam,12.943,80.2355,Apollo Proton Centre,12.9765,80.2514
+Thoraipakkam,12.943,80.2355,Prashanth Hospital (Velachery),12.98,80.22
+Thoraipakkam,12.943,80.2355,VHS Hospital,12.989,80.2455
+Thoraipakkam,12.943,80.2355,Subhikshaa Hospital,12.988,80.205
+Thoraipakkam,12.943,80.2355,Saraswathy Hospital,12.965,80.185
+Thoraipakkam,12.943,80.2355,Prime Indian Hospital,12.985,80.195
+Thoraipakkam,12.943,80.2355,Bloom Health Care,12.998,80.255
+Thoraipakkam,12.943,80.2355,Asian Hospital,12.997,80.263
+Thoraipakkam,12.943,80.2355,Adyar Cancer Institute,13.004,80.249
+Thoraipakkam,12.943,80.2355,Cancer Institute (WIA),13.004,80.249
+Thoraipakkam,12.943,80.2355,Raadha Rajendran Hospital,13.002,80.203
+Madipakkam,12.9632,80.1878,Saraswathy Hospital,12.965,80.185
+Madipakkam,12.9632,80.1878,Prime Indian Hospital,12.985,80.195
+Madipakkam,12.9632,80.1878,Subhikshaa Hospital,12.988,80.205
+Madipakkam,12.9632,80.1878,Prashanth Hospital (Velachery),12.98,80.22
+Madipakkam,12.9632,80.1878,Dr. Kamakshi Memorial,12.9345,80.2137
+Madipakkam,12.9632,80.1878,Dr. Kamakshi (Pallikaranai),12.9345,80.2137
+Madipakkam,12.9632,80.1878,Kauvery Radial Road,12.932,80.211
+Madipakkam,12.9632,80.1878,Deepam Hospital,12.967,80.148
+Madipakkam,12.9632,80.1878,Raadha Rajendran Hospital,13.002,80.203
+Madipakkam,12.9632,80.1878,Lakshmi Nursing Home,12.952,80.147
+Madipakkam,12.9632,80.1878,St. Thomas Hospital,13.0044,80.2015
+Madipakkam,12.9632,80.1878,Parvathy Hospital,12.951,80.145
+Madipakkam,12.9632,80.1878,Kavitha Hospital,12.95,80.144
+Madipakkam,12.9632,80.1878,Sri Balaji Hospital,13.0104,80.198
+Madipakkam,12.9632,80.1878,Rela Institute,12.952,80.14
+Madipakkam,12.9632,80.1878,Cura Hospital,12.941,80.236
+Madipakkam,12.9632,80.1878,Lifeline Hospital,12.968,80.242
+Madipakkam,12.9632,80.1878,Gem Hospital,12.961,80.243
+Madipakkam,12.9632,80.1878,Apollo Speciality (Perungudi),12.9656,80.2469
+Madipakkam,12.9632,80.1878,MIOT International,13.0232,80.1837
+Nanganallur,12.98,80.19,Prime Indian Hospital,12.985,80.195
+Nanganallur,12.98,80.19,Saraswathy Hospital,12.965,80.185
+Nanganallur,12.98,80.19,Subhikshaa Hospital,12.988,80.205
+Nanganallur,12.98,80.19,Raadha Rajendran Hospital,13.002,80.203
+Nanganallur,12.98,80.19,St. Thomas Hospital,13.0044,80.2015
+Nanganallur,12.98,80.19,Prashanth Hospital (Velachery),12.98,80.22
+Nanganallur,12.98,80.19,Sri Balaji Hospital,13.0104,80.198
+Nanganallur,12.98,80.19,MIOT International,13.0232,80.1837
+Nanganallur,12.98,80.19,Deepam Hospital,12.967,80.148
+Nanganallur,12.98,80.19,Abhijay Hospital,13.021,80.21
+Nanganallur,12.98,80.19,Srushti Hospital,13.025,80.175
+Nanganallur,12.98,80.19,Dr. Kamakshi Memorial,12.9345,80.2137
+Nanganallur,12.98,80.19,Dr. Kamakshi (Pallikaranai),12.9345,80.2137
+Nanganallur,12.98,80.19,Lakshmi Nursing Home,12.952,80.147
+Nanganallur,12.98,80.19,Kauvery Radial Road,12.932,80.211
+Nanganallur,12.98,80.19,Lifeline Hospital,12.968,80.242
+Nanganallur,12.98,80.19,Parvathy Hospital,12.951,80.145
+Nanganallur,12.98,80.19,Kavitha Hospital,12.95,80.144
+Nanganallur,12.98,80.19,VHS Hospital,12.989,80.2455
+Nanganallur,12.98,80.19,Gem Hospital,12.961,80.243
+Kotturpuram,13.02,80.24,Adyar Cancer Institute,13.004,80.249
+Kotturpuram,13.02,80.24,Cancer Institute (WIA),13.004,80.249
+Kotturpuram,13.02,80.24,Motherhood Hospital,13.033,80.255
+Kotturpuram,13.02,80.24,Apollo Sugar Clinic,13.033,80.255
+Kotturpuram,13.02,80.24,Apollo Spectra,13.026,80.261
+Kotturpuram,13.02,80.24,Kauvery Alwarpet,13.035,80.256
+Kotturpuram,13.02,80.24,Fortis Malar,13.0067,80.2589
+Kotturpuram,13.02,80.24,Be Well Hospital,13.043,80.232
+Kotturpuram,13.02,80.24,Venkatramana Hospital,13.035,80.26
+Kotturpuram,13.02,80.24,Cloudnine Hospital (T Nagar),13.045,80.245
+Kotturpuram,13.02,80.24,Bloom Health Care,12.998,80.255
+Kotturpuram,13.02,80.24,Aarthi Scans & Hospital,13.042,80.225
+Kotturpuram,13.02,80.24,Apollo Teynampet,13.045,80.25
+Kotturpuram,13.02,80.24,Trinity Acute Care,13.03,80.265
+Kotturpuram,13.02,80.24,Isabel Hospital,13.039,80.261
+Kotturpuram,13.02,80.24,Dr. Agarwal's Eye Hospital,13.039,80.261
+Kotturpuram,13.02,80.24,MGM Healthcare,13.045,80.255
+Kotturpuram,13.02,80.24,Abhijay Hospital,13.021,80.21
+Kotturpuram,13.02,80.24,Noble Hospital,13.034,80.213
+Kotturpuram,13.02,80.24,Medway Hospital,13.049,80.228
+Saidapet,13.021,80.223,Abhijay Hospital,13.021,80.21
+Saidapet,13.021,80.223,Noble Hospital,13.034,80.213
+Saidapet,13.021,80.223,Aarthi Scans & Hospital,13.042,80.225
+Saidapet,13.021,80.223,Be Well Hospital,13.043,80.232
+Saidapet,13.021,80.223,Sri Balaji Hospital,13.0104,80.198
+Saidapet,13.021,80.223,St. Thomas Hospital,13.0044,80.2015
+Saidapet,13.021,80.223,Raadha Rajendran Hospital,13.002,80.203
+Saidapet,13.021,80.223,Medway Hospital,13.049,80.228
+Saidapet,13.021,80.223,Meenakshi Mission,13.04,80.2
+Saidapet,13.021,80.223,SIMS Hospital,13.048,80.21
+Saidapet,13.021,80.223,Narayana Health,13.048,80.21
+Saidapet,13.021,80.223,Adyar Cancer Institute,13.004,80.249
+Saidapet,13.021,80.223,Cancer Institute (WIA),13.004,80.249
+Saidapet,13.021,80.223,ESI Hospital,13.04,80.198
+Saidapet,13.021,80.223,Vijaya Hospital,13.051,80.211
+Saidapet,13.021,80.223,Cloudnine Hospital (T Nagar),13.045,80.245
+Saidapet,13.021,80.223,Motherhood Hospital,13.033,80.255
+Saidapet,13.021,80.223,Apollo Sugar Clinic,13.033,80.255
+Saidapet,13.021,80.223,Kauvery Alwarpet,13.035,80.256
+Saidapet,13.021,80.223,Apollo Teynampet,13.045,80.25
+T Nagar,13.0418,80.2341,Be Well Hospital,13.043,80.232
+T Nagar,13.0418,80.2341,Aarthi Scans & Hospital,13.042,80.225
+T Nagar,13.0418,80.2341,Medway Hospital,13.049,80.228
+T Nagar,13.0418,80.2341,Cloudnine Hospital (T Nagar),13.045,80.245
+T Nagar,13.0418,80.2341,Child Trust Hospital,13.055,80.243
+T Nagar,13.0418,80.2341,Kanchi Kamakoti CHILDS Trust,13.055,80.243
+T Nagar,13.0418,80.2341,Apollo Teynampet,13.045,80.25
+T Nagar,13.0418,80.2341,Rainbow Childrens Hospital,13.05,80.25
+T Nagar,13.0418,80.2341,MGM Healthcare,13.045,80.255
+T Nagar,13.0418,80.2341,Noble Hospital,13.034,80.213
+T Nagar,13.0418,80.2341,Motherhood Hospital,13.033,80.255
+T Nagar,13.0418,80.2341,Apollo Sugar Clinic,13.033,80.255
+T Nagar,13.0418,80.2341,Kauvery Alwarpet,13.035,80.256
+T Nagar,13.0418,80.2341,V S Hospital,13.065,80.24
+T Nagar,13.0418,80.2341,Vijaya Hospital,13.051,80.211
+T Nagar,13.0418,80.2341,SIMS Hospital,13.048,80.21
+T Nagar,13.0418,80.2341,Narayana Health,13.048,80.21
+T Nagar,13.0418,80.2341,Apollo Greams Road,13.0607,80.252
+T Nagar,13.0418,80.2341,Dr. Mehta's Hospital,13.068,80.235
+T Nagar,13.0418,80.2341,Mehta Multispeciality,13.068,80.235
+Ashok Nagar,13.0345,80.2126,Noble Hospital,13.034,80.213
+Ashok Nagar,13.0345,80.2126,Meenakshi Mission,13.04,80.2
+Ashok Nagar,13.0345,80.2126,Abhijay Hospital,13.021,80.21
+Ashok Nagar,13.0345,80.2126,SIMS Hospital,13.048,80.21
+Ashok Nagar,13.0345,80.2126,Narayana Health,13.048,80.21
+Ashok Nagar,13.0345,80.2126,Aarthi Scans & Hospital,13.042,80.225
+Ashok Nagar,13.0345,80.2126,ESI Hospital,13.04,80.198
+Ashok Nagar,13.0345,80.2126,Vijaya Hospital,13.051,80.211
+Ashok Nagar,13.0345,80.2126,Sooriya Hospital,13.053,80.205
+Ashok Nagar,13.0345,80.2126,Medway Hospital,13.049,80.228
+Ashok Nagar,13.0345,80.2126,Be Well Hospital,13.043,80.232
+Ashok Nagar,13.0345,80.2126,Sri Balaji Hospital,13.0104,80.198
+Ashok Nagar,13.0345,80.2126,MIOT International,13.0232,80.1837
+Ashok Nagar,13.0345,80.2126,St. Thomas Hospital,13.0044,80.2015
+Ashok Nagar,13.0345,80.2126,Raadha Rajendran Hospital,13.002,80.203
+Ashok Nagar,13.0345,80.2126,Cloudnine Hospital (T Nagar),13.045,80.245
+Ashok Nagar,13.0345,80.2126,Grace Multispeciality,13.045,80.18
+Ashok Nagar,13.0345,80.2126,Child Trust Hospital,13.055,80.243
+Ashok Nagar,13.0345,80.2126,Kanchi Kamakoti CHILDS Trust,13.055,80.243
+Ashok Nagar,13.0345,80.2126,Srushti Hospital,13.025,80.175
+Palavakkam,12.9626,80.2563,Apollo Speciality (Perungudi),12.9656,80.2469
+Palavakkam,12.9626,80.2563,Gem Hospital,12.961,80.243
+Palavakkam,12.9626,80.2563,Apollo Proton Centre,12.9765,80.2514
+Palavakkam,12.9626,80.2563,Lifeline Hospital,12.968,80.242
+Palavakkam,12.9626,80.2563,VHS Hospital,12.989,80.2455
+Palavakkam,12.9626,80.2563,Cura Hospital,12.941,80.236
+Palavakkam,12.9626,80.2563,Asian Hospital,12.997,80.263
+Palavakkam,12.9626,80.2563,Bloom Health Care,12.998,80.255
+Palavakkam,12.9626,80.2563,Prashanth Hospital (Velachery),12.98,80.22
+Palavakkam,12.9626,80.2563,Adyar Cancer Institute,13.004,80.249
+Palavakkam,12.9626,80.2563,Cancer Institute (WIA),13.004,80.249
+Palavakkam,12.9626,80.2563,Fortis Malar,13.0067,80.2589
+Palavakkam,12.9626,80.2563,Dr. Kamakshi Memorial,12.9345,80.2137
+Palavakkam,12.9626,80.2563,Dr. Kamakshi (Pallikaranai),12.9345,80.2137
+Palavakkam,12.9626,80.2563,Apollo OMR (Karapakkam),12.9186,80.2297
+Palavakkam,12.9626,80.2563,Apollo Cradle (Karapakkam),12.9186,80.2297
+Palavakkam,12.9626,80.2563,Kauvery Radial Road,12.932,80.211
+Palavakkam,12.9626,80.2563,Subhikshaa Hospital,12.988,80.205
+Palavakkam,12.9626,80.2563,Apollo Spectra,13.026,80.261
+Palavakkam,12.9626,80.2563,Prime Indian Hospital,12.985,80.195
+Neelankarai,12.9471,80.2536,Gem Hospital,12.961,80.243
+Neelankarai,12.9471,80.2536,Cura Hospital,12.941,80.236
+Neelankarai,12.9471,80.2536,Apollo Speciality (Perungudi),12.9656,80.2469
+Neelankarai,12.9471,80.2536,Lifeline Hospital,12.968,80.242
+Neelankarai,12.9471,80.2536,Apollo Proton Centre,12.9765,80.2514
+Neelankarai,12.9471,80.2536,Apollo OMR (Karapakkam),12.9186,80.2297
+Neelankarai,12.9471,80.2536,Apollo Cradle (Karapakkam),12.9186,80.2297
+Neelankarai,12.9471,80.2536,Dr. Kamakshi Memorial,12.9345,80.2137
+Neelankarai,12.9471,80.2536,Dr. Kamakshi (Pallikaranai),12.9345,80.2137
+Neelankarai,12.9471,80.2536,VHS Hospital,12.989,80.2455
+Neelankarai,12.9471,80.2536,Kauvery Radial Road,12.932,80.211
+Neelankarai,12.9471,80.2536,Prashanth Hospital (Velachery),12.98,80.22
+Neelankarai,12.9471,80.2536,Asian Hospital,12.997,80.263
+Neelankarai,12.9471,80.2536,Bloom Health Care,12.998,80.255
+Neelankarai,12.9471,80.2536,Adyar Cancer Institute,13.004,80.249
+Neelankarai,12.9471,80.2536,Cancer Institute (WIA),13.004,80.249
+Neelankarai,12.9471,80.2536,Fortis Malar,13.0067,80.2589
+Neelankarai,12.9471,80.2536,Subhikshaa Hospital,12.988,80.205
+Neelankarai,12.9471,80.2536,Prime Indian Hospital,12.985,80.195
+Neelankarai,12.9471,80.2536,Saraswathy Hospital,12.965,80.185
+Alwarpet,13.0399,80.2581,Isabel Hospital,13.039,80.261
+Alwarpet,13.0399,80.2581,Dr. Agarwal's Eye Hospital,13.039,80.261
+Alwarpet,13.0399,80.2581,Venkatramana Hospital,13.035,80.26
+Alwarpet,13.0399,80.2581,Kauvery Alwarpet,13.035,80.256
+Alwarpet,13.0399,80.2581,MGM Healthcare,13.045,80.255
+Alwarpet,13.0399,80.2581,Motherhood Hospital,13.033,80.255
+Alwarpet,13.0399,80.2581,Apollo Sugar Clinic,13.033,80.255
+Alwarpet,13.0399,80.2581,Apollo Teynampet,13.045,80.25
+Alwarpet,13.0399,80.2581,CSI Kalyani Hospital,13.041,80.268
+Alwarpet,13.0399,80.2581,Trinity Acute Care,13.03,80.265
+Alwarpet,13.0399,80.2581,Rainbow Childrens Hospital,13.05,80.25
+Alwarpet,13.0399,80.2581,Cloudnine Hospital (T Nagar),13.045,80.245
+Alwarpet,13.0399,80.2581,Apollo Spectra,13.026,80.261
+Alwarpet,13.0399,80.2581,Royapettah General,13.055,80.262
+Alwarpet,13.0399,80.2581,Be Well Hospital,13.043,80.232
+Alwarpet,13.0399,80.2581,Aarthi Scans & Hospital,13.042,80.225
+Alwarpet,13.0399,80.2581,Medway Hospital,13.049,80.228
+Alwarpet,13.0399,80.2581,Child Trust Hospital,13.055,80.243
+Alwarpet,13.0399,80.2581,Kanchi Kamakoti CHILDS Trust,13.055,80.243
+Alwarpet,13.0399,80.2581,Fortis Malar,13.0067,80.2589
+RA Puram,13.025,80.26,Apollo Spectra,13.026,80.261
+RA Puram,13.025,80.26,Motherhood Hospital,13.033,80.255
+RA Puram,13.025,80.26,Apollo Sugar Clinic,13.033,80.255
+RA Puram,13.025,80.26,Venkatramana Hospital,13.035,80.26
+RA Puram,13.025,80.26,Kauvery Alwarpet,13.035,80.256
+RA Puram,13.025,80.26,Trinity Acute Care,13.03,80.265
+RA Puram,13.025,80.26,Isabel Hospital,13.039,80.261
+RA Puram,13.025,80.26,Dr. Agarwal's Eye Hospital,13.039,80.261
+RA Puram,13.025,80.26,MGM Healthcare,13.045,80.255
+RA Puram,13.025,80.26,Apollo Teynampet,13.045,80.25
+RA Puram,13.025,80.26,Fortis Malar,13.0067,80.2589
+RA Puram,13.025,80.26,CSI Kalyani Hospital,13.041,80.268
+RA Puram,13.025,80.26,Rainbow Childrens Hospital,13.05,80.25
+RA Puram,13.025,80.26,Cloudnine Hospital (T Nagar),13.045,80.245
+RA Puram,13.025,80.26,Royapettah General,13.055,80.262
+RA Puram,13.025,80.26,Adyar Cancer Institute,13.004,80.249
+RA Puram,13.025,80.26,Cancer Institute (WIA),13.004,80.249
+RA Puram,13.025,80.26,Be Well Hospital,13.043,80.232
+RA Puram,13.025,80.26,Aarthi Scans & Hospital,13.042,80.225
+RA Puram,13.025,80.26,Bloom Health Care,12.998,80.255
+Keelkattalai,12.9405,80.1825,Saraswathy Hospital,12.965,80.185
+Keelkattalai,12.9405,80.1825,Dr. Kamakshi Memorial,12.9345,80.2137
+Keelkattalai,12.9405,80.1825,Dr. Kamakshi (Pallikaranai),12.9345,80.2137
+Keelkattalai,12.9405,80.1825,Kauvery Radial Road,12.932,80.211
+Keelkattalai,12.9405,80.1825,Deepam Hospital,12.967,80.148
+Keelkattalai,12.9405,80.1825,Lakshmi Nursing Home,12.952,80.147
+Keelkattalai,12.9405,80.1825,Parvathy Hospital,12.951,80.145
+Keelkattalai,12.9405,80.1825,Kavitha Hospital,12.95,80.144
+Keelkattalai,12.9405,80.1825,Rela Institute,12.952,80.14
+Keelkattalai,12.9405,80.1825,Prime Indian Hospital,12.985,80.195
+Keelkattalai,12.9405,80.1825,Cura Hospital,12.941,80.236
+Keelkattalai,12.9405,80.1825,Subhikshaa Hospital,12.988,80.205
+Keelkattalai,12.9405,80.1825,Hindu Mission Hospital,12.924,80.128
+Keelkattalai,12.9405,80.1825,COSH Hospital,12.925,80.125
+Keelkattalai,12.9405,80.1825,Prashanth Hospital (Velachery),12.98,80.22
+Keelkattalai,12.9405,80.1825,Apollo OMR (Karapakkam),12.9186,80.2297
+Keelkattalai,12.9405,80.1825,Apollo Cradle (Karapakkam),12.9186,80.2297
+Keelkattalai,12.9405,80.1825,Raadha Rajendran Hospital,13.002,80.203
+Keelkattalai,12.9405,80.1825,St. Thomas Hospital,13.0044,80.2015
+Keelkattalai,12.9405,80.1825,Global Gleneagles Health City,12.8761,80.2209
+Tambaram,12.9229,80.1275,Hindu Mission Hospital,12.924,80.128
+Tambaram,12.9229,80.1275,COSH Hospital,12.925,80.125
+Tambaram,12.9229,80.1275,Parvathy Hospital,12.951,80.145
+Tambaram,12.9229,80.1275,Kavitha Hospital,12.95,80.144
+Tambaram,12.9229,80.1275,Rela Institute,12.952,80.14
+Tambaram,12.9229,80.1275,Lakshmi Nursing Home,12.952,80.147
+Tambaram,12.9229,80.1275,Deepam Hospital,12.967,80.148
+Tambaram,12.9229,80.1275,Saraswathy Hospital,12.965,80.185
+Tambaram,12.9229,80.1275,Annai Arul Hospital,12.915,80.095
+Tambaram,12.9229,80.1275,Kauvery Radial Road,12.932,80.211
+Tambaram,12.9229,80.1275,Dr. Kamakshi Memorial,12.9345,80.2137
+Tambaram,12.9229,80.1275,Dr. Kamakshi (Pallikaranai),12.9345,80.2137
+Tambaram,12.9229,80.1275,Prime Indian Hospital,12.985,80.195
+Tambaram,12.9229,80.1275,Subhikshaa Hospital,12.988,80.205
+Tambaram,12.9229,80.1275,SRM Medical College,12.823,80.04
+Tambaram,12.9229,80.1275,Cura Hospital,12.941,80.236
+Tambaram,12.9229,80.1275,Global Gleneagles Health City,12.8761,80.2209
+Tambaram,12.9229,80.1275,Apollo OMR (Karapakkam),12.9186,80.2297
+Tambaram,12.9229,80.1275,Apollo Cradle (Karapakkam),12.9186,80.2297
+Tambaram,12.9229,80.1275,Prashanth Hospital (Velachery),12.98,80.22
+Chromepet,12.9516,80.1462,Parvathy Hospital,12.951,80.145
+Chromepet,12.9516,80.1462,Kavitha Hospital,12.95,80.144
+Chromepet,12.9516,80.1462,Rela Institute,12.952,80.14
+Chromepet,12.9516,80.1462,Lakshmi Nursing Home,12.952,80.147
+Chromepet,12.9516,80.1462,Deepam Hospital,12.967,80.148
+Chromepet,12.9516,80.1462,Saraswathy Hospital,12.965,80.185
+Chromepet,12.9516,80.1462,Hindu Mission Hospital,12.924,80.128
+Chromepet,12.9516,80.1462,COSH Hospital,12.925,80.125
+Chromepet,12.9516,80.1462,Kauvery Radial Road,12.932,80.211
+Chromepet,12.9516,80.1462,Dr. Kamakshi Memorial,12.9345,80.2137
+Chromepet,12.9516,80.1462,Dr. Kamakshi (Pallikaranai),12.9345,80.2137
+Chromepet,12.9516,80.1462,Prime Indian Hospital,12.985,80.195
+Chromepet,12.9516,80.1462,Subhikshaa Hospital,12.988,80.205
+Chromepet,12.9516,80.1462,Cura Hospital,12.941,80.236
+Chromepet,12.9516,80.1462,Prashanth Hospital (Velachery),12.98,80.22
+Chromepet,12.9516,80.1462,Raadha Rajendran Hospital,13.002,80.203
+Chromepet,12.9516,80.1462,Global Gleneagles Health City,12.8761,80.2209
+Chromepet,12.9516,80.1462,Apollo OMR (Karapakkam),12.9186,80.2297
+Chromepet,12.9516,80.1462,Apollo Cradle (Karapakkam),12.9186,80.2297
+Chromepet,12.9516,80.1462,St. Thomas Hospital,13.0044,80.2015
